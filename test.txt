@@ -1,0 +1,27 @@
+15.05.2024 05:55:05
+PTK8_LTO1_FE30_ARH
+Normaali
+Kuittaamaton
+LTO1, ilmamäärä, alarajahälytys
+Prioriteetti:0
+
+15.05.2024 06:08:21
+PTK8_LTO1_FE30_ARH
+Hälytys
+Kuittaamaton
+LTO1, ilmamäärä, alarajahälytys
+Prioriteetti:0
+
+15.05.2024 08:50:30
+PTK8_PE_G2_ARH
+Normaali
+Kuittaamaton
+Lämmitysverkoston paine, alarajahälytys
+Prioriteetti:0
+
+15.05.2024 09:00:01
+PTK8_LTO1_FE30_ARH
+Normaali
+Kuittaamaton
+LTO1, ilmamäärä, alarajahälytys
+Prioriteetti:0
